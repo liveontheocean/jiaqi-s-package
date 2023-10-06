@@ -1,2 +1,3 @@
 # jiaqi-s-package
-this shows a student in buaa who grows.
+this shows a process where a buaaer grows.
+
